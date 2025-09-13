@@ -48,7 +48,7 @@ python github_code/neurosimulator.py
   + 2. 실행하면 엑셀 파일 경로 입력을 요청합니다. 예)
 LTP/LTD 데이터가 포함된 엑셀 파일 경로를 입력하세요:  /Users/you/data/ltp_ltd.xlsx
 
-+ ## 실향 방법 (Finger Sign)
++ ## 실행 방법 (Finger Sign)
   + 1. 저장소 루트 기준(예: 파일이 github_code/neurosimulator.py에 있는 경우):
 python github_code/neurosimulator.py
 
